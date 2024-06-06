@@ -1,0 +1,6 @@
+cd build/web
+git init
+git remote add origin https://github.com/USERNAME/REPOSITORY.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
